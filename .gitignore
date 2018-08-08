@@ -1,0 +1,5 @@
+manager-11.py
+test.py
+timnedelta.py
+*.py[cod]
+.idea/
